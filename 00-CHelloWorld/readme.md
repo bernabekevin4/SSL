@@ -1,5 +1,9 @@
-**TP 0 - "Hello, World!" en C**
+> **TP 0 - "Hello, World!" en C**
 
 - **Compilador:** GCC (instalado mediante MSYS2)
 - **Version del Compilador:** 15.2.0
 - **Version del Lenguaje:** 15.2.0
+
+> **Uso de Make**
+- **Compilación:** make
+- **Ejecución:** make run
